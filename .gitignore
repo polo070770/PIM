@@ -1,0 +1,4 @@
+.idea/
+*.pyc
+Thumbs.db
+.ipynb_checkpoints/
